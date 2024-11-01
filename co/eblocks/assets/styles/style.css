@@ -1,0 +1,15 @@
+#main {
+    margin: 28px 0px;
+    padding: 28px 0px;
+    border-radius: 6px;
+}
+.eb-panel {
+    background: #FFFFFF;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.eb-panel-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
